@@ -1,0 +1,18 @@
+.T1{
+    float:left;
+    width: 25%;
+}
+video{
+    float:left;
+    width: 50%;
+}
+.T2{
+	float: right;
+    width: 25%;
+    overflow: auto;
+}
+iframe{
+	float: right;
+    width: 50%;
+    overflow: auto;
+}
