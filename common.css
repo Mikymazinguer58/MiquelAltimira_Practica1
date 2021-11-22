@@ -2,10 +2,11 @@
     width:100%;
     border-radius: 5px;
 }
+
 nav{
     clear:both;
 	background-color: #222;
-	box-shadow: 2px 3px 1px gray;
+	box-shadow: 2px 3px 1px red;
 	border-radius: 5px;
 	margin: 10px;
 	text-align:center;
